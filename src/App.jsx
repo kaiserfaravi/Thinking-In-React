@@ -1,13 +1,13 @@
-
 import './App.css'
-import Users from './Components/Users/Users'
+import Countries from './Components/Countries/Countries'
+
 
 function App() {
  
 
   return (
     <>
-     <Users></Users>
+     <Countries></Countries>
     </>
   )
 }
